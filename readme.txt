@@ -4,6 +4,7 @@ Perform Semantic Segmentation on a Batch of Images.
 Before performing this experiment, we need to know what Image Segmentation actually is.
 
 	Every image is made up of a group of pixel values. Image Segmentation is the task of classifying an image at the pixel level. 
+
 	A machine is able to analyse an image more effectively by dividing it into different segments according to the classes assigned to each of the pixel values present in the image.
 
 
