@@ -1,3 +1,4 @@
+# we added the extra parameter overlay and set it to true and we obtained an image with a segmentation overlay on the objects.
 import pixellib
 from pixellib.semantic import semantic_segmentation
 import cv2
